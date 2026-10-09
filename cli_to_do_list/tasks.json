@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "description": "Buy groceries",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "description": "Prepare presentation slides",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "description": "Get mom foot massager of good quality",
+        "status": true
+    },
+    {
+        "id": 4,
+        "description": "Complete DAA practical file",
+        "status": false
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is considered the largest tropical rainforest in the world?",
+        "options": [
+            "Congo Rainforest",
+            "Amazon Rainforest",
+            "Daintree Rainforest",
+            "Valdivian Temperate Rainforest"
+        ],
+        "answer": "Amazon Rainforest"
+    },
+    {
+        "id": 2,
+        "question": "What percentage of the Earth's total surface is covered by rainforests?",
+        "options": [
+            "About 6%",
+            "About 15%",
+            "About 25%",
+            "About 35%"
+        ],
+        "answer": "About 6%"
+    },
+    {
+        "id": 3,
+        "question": "Which forest layer is the uppermost layer, where giant trees tower above the canopy?",
+        "options": [
+            "Understory",
+            "Forest Floor",
+            "Emergent Layer",
+            "Canopy"
+        ],
+        "answer": "Emergent Layer"
+    },
+    {
+        "id": 4,
+        "question": "The Daintree Rainforest, one of the oldest rainforests in the world, is located in which country?",
+        "options": [
+            "Brazil",
+            "Indonesia",
+            "Australia",
+            "Madagascar"
+        ],
+        "answer": "Australia"
+    },
+    {
+        "id": 5,
+        "question": "Which big cat native to Central and South America is known for its powerful bite and spotted coat pattern featuring rosettes with internal spots?",
+        "options": [
+            "Leopard",
+            "Jaguar",
+            "Cheetah",
+            "Cougar"
+        ],
+        "answer": "Jaguar"
+    },
+    {
+        "id": 6,
+        "question": "The Congo Basin rainforest, the second largest in the world, is primarily located on which continent?",
+        "options": [
+            "South America",
+            "Asia",
+            "Africa",
+            "Australia"
+        ],
+        "answer": "Africa"
+    },
+    {
+        "id": 7,
+        "question": "What is the term for plants that grow on other plants or trees for support rather than taking nutrients from them, commonly found in jungles?",
+        "options": [
+            "Epiphytes",
+            "Parasites",
+            "Saprophytes",
+            "Xerophytes"
+        ],
+        "answer": "Epiphytes"
+    },
+    {
+        "id": 8,
+        "question": "Which bird, native to Central America and famous for its vibrant green and red plumage, was sacred to the ancient Maya and Aztecs?",
+        "options": [
+            "Toucan",
+            "Macaw",
+            "Resplendent Quetzal",
+            "Hornbill"
+        ],
+        "answer": "Resplendent Quetzal"
+    },
+    {
+        "id": 9,
+        "question": "Roughly what proportion of the world's terrestrial plant and animal species are estimated to live in tropical rainforests?",
+        "options": [
+            "Around 10%",
+            "Around 25%",
+            "More than 50%",
+            "Over 85%"
+        ],
+        "answer": "More than 50%"
+    },
+    {
+        "id": 10,
+        "question": "Which of the following is the largest species of arboreal (tree-dwelling) animal, native to the rainforests of Borneo and Sumatra?",
+        "options": [
+            "Chimpanzee",
+            "Orangutan",
+            "Howler Monkey",
+            "Sloth"
+        ],
+        "answer": "Orangutan"
+    }
+]
